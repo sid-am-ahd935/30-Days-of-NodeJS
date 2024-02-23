@@ -1,0 +1,6 @@
+node_modules
+delete*
+rough*
+
+package.json
+package-lock.json
