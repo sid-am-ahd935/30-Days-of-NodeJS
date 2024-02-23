@@ -1,0 +1,1 @@
+![Proof of Work for Registeration for the event](image.png)
